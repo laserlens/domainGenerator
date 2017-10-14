@@ -1,0 +1,17 @@
+{
+  "name": "domainGenerator",
+  "version": "1.0.0",
+  "description": "Web app to generate domain names and or search if avalable",
+  "main": "server.js",
+  "repository": "https://github.com/laserlens/domainGenerator",
+  "author": "MNtech",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "node": "^8.3.0",
+    "request": "^2.83.0"
+  }
+}
